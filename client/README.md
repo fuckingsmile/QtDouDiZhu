@@ -107,40 +107,8 @@
 
 `在实现的游戏代码中，没有处理春天的情况（一个玩家牌已出完，另外两个玩家的牌一张未出），如若需要，可自行添加。`
 
-
-
-# 2. 游戏部署
-
-1. 使用 `QtCreator` 打开项目文件 `Landlords.pro`，编译并生成可执行程序。
-
-2. 关于资源文件的加载：
-
-   - 使用`QtCreator`启动程序
-
-     将项目目录中的资源文件`resource.rcc`拷贝到生成的`build`目录下即可，build 目录名示例：`build-Landlords-Desktop_Qt_5_15_2_MinGW_32_bit-Debug`
-
-   - 直接双击`.exe`可执行文件启动程序
-
-     将项目目录中的资源文件`resource.rcc`拷贝到和`.exe`文件同级目录即可。
-
 3. 游戏效果图
 
 4. ![33333](README/33333.png)
 
    ![](README/3434.png)
-
-   
-
-
-
-# 3. 其他
-
-欢迎关注作者：
-
-个人博客：https://subingwen.cn
-
-个人店铺：https://edu.subingwen.cn/index
-
-B站个人主页：https://space.bilibili.com/147020887
-
-微信公众号：ibc_dabing
